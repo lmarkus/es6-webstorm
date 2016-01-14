@@ -1,0 +1,30 @@
+{
+  "name": "es6-webstorm",
+  "version": "1.0.0",
+  "description": "Example babel-register setup with webstorm",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-register": "^6.3.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmarkus/es6-webstorm.git"
+  },
+  "keywords": [
+    "webstorm",
+    "babel",
+    "register",
+    "ES6"
+  ],
+  "author": "lmarkus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmarkus/es6-webstorm/issues"
+  },
+  "homepage": "https://github.com/lmarkus/es6-webstorm#readme"
+}
